@@ -1,0 +1,4 @@
+*.pyc
+.devbox/
+.env
+devbox.lock
